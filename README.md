@@ -42,5 +42,5 @@ SELECT * from radio
 
 ### Summary
 [Azure Data Lake Storage Gen2 documentation](https://docs.microsoft.com/azure/storage/blobs/data-lake-storage-introduction)  
-[Azure Databricks documentation](https://azure.microsoft.com/services/databricks/)  
+[Azure Databricks documentation](https://docs.microsoft.com/azure/azure-databricks/)  
 support@cloudacademy.com
