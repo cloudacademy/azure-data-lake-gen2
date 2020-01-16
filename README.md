@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/cloudacademy/azure-data-lake-gen2/master/
 azcopy login
 ```
 ```
-azcopy copy 'radio.json' 'https://cadatalakegen2.dfs.core.windows.net/datalake/radio.json
+azcopy copy 'radio.json' 'https://cadatalakegen2.dfs.core.windows.net/datalake/radio.json'
 ```
 
 ### Accessing ADLS from Azure Databricks
