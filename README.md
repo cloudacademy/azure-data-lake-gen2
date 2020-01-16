@@ -8,6 +8,12 @@ This file contains text you can copy and paste for the examples in Cloud Academy
 ```
 wget https://raw.githubusercontent.com/cloudacademy/azure-data-lake-gen2/master/radio.json
 ```
+```
+azcopy login
+```
+```
+azcopy copy 'radio.json' 'https://cadatalakegen2.dfs.core.windows.net/datalake/radio.json
+```
 
 ### Accessing ADLS from Azure Databricks
 ```
