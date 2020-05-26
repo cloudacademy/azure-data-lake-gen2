@@ -1,4 +1,4 @@
-[{"first_name":"Daune","last_name":"Godwyn","gender":"Female","car_color":"Violet","car_model":"Mirage","job_title":"Account Representative III","city":"Sacramento","state":"California"},
+{"first_name":"Daune","last_name":"Godwyn","gender":"Female","car_color":"Violet","car_model":"Mirage","job_title":"Account Representative III","city":"Sacramento","state":"California"},
 {"first_name":"Amaleta","last_name":"Avey","gender":"Female","car_color":"Khaki","car_model":"E150","job_title":"Internal Auditor","city":"Washington","state":"District of Columbia"},
 {"first_name":"Pavla","last_name":"Quilleash","gender":"Female","car_color":"Yellow","car_model":"7 Series","job_title":"VP Quality Control","city":"Milwaukee","state":"Wisconsin"},
 {"first_name":"Revkah","last_name":"Risson","gender":"Female","car_color":"Crimson","car_model":"Scoupe","job_title":"VP Sales","city":"Raleigh","state":"North Carolina"},
@@ -997,4 +997,4 @@
 {"first_name":"Eachelle","last_name":"Melchior","gender":"Female","car_color":"Green","car_model":"Tundra","job_title":"Physical Therapy Assistant","city":"Minneapolis","state":"Minnesota"},
 {"first_name":"Perry","last_name":"Bradford","gender":"Male","car_color":"Maroon","car_model":"ES","job_title":"VP Sales","city":"Columbus","state":"Ohio"},
 {"first_name":"Keely","last_name":"Robjohns","gender":"Female","car_color":"Turquoise","car_model":"Sebring","job_title":"Nuclear Power Engineer","city":"Miami","state":"Florida"},
-{"first_name":"Ximenez","last_name":"Frome","gender":"Male","car_color":"Yellow","car_model":"B2600","job_title":"General Manager","city":"Bakersfield","state":"California"}]
+{"first_name":"Ximenez","last_name":"Frome","gender":"Male","car_color":"Yellow","car_model":"B2600","job_title":"General Manager","city":"Bakersfield","state":"California"}
