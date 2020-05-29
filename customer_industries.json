@@ -1,50 +1,50 @@
-{"id":1,"customer_industry":"Electrical Products"}
-{"id":2,"customer_industry":"Other Consumer Services"}
-{"id":3,"customer_industry":"Oil & Gas Production"}
-{"id":4,"customer_industry":"n/a"}
-{"id":5,"customer_industry":"Ophthalmic Goods"}
-{"id":6,"customer_industry":"Services-Misc. Amusement & Recreation"}
-{"id":7,"customer_industry":"Semiconductors"}
-{"id":8,"customer_industry":"Major Banks"}
-{"id":9,"customer_industry":"Other Specialty Stores"}
-{"id":10,"customer_industry":"Telecommunications Equipment"}
-{"id":11,"customer_industry":"Business Services"}
-{"id":12,"customer_industry":"n/a"}
-{"id":13,"customer_industry":"Hospital/Nursing Management"}
-{"id":14,"customer_industry":"Automotive Aftermarket"}
-{"id":15,"customer_industry":"Major Banks"}
-{"id":16,"customer_industry":"Restaurants"}
-{"id":17,"customer_industry":"Investment Managers"}
-{"id":18,"customer_industry":"Other Consumer Services"}
-{"id":19,"customer_industry":"Precious Metals"}
-{"id":20,"customer_industry":"Major Pharmaceuticals"}
-{"id":21,"customer_industry":"Other Specialty Stores"}
-{"id":22,"customer_industry":"Aluminum"}
-{"id":23,"customer_industry":"Industrial Machinery/Components"}
-{"id":24,"customer_industry":"Oil & Gas Production"}
-{"id":25,"customer_industry":"Major Pharmaceuticals"}
-{"id":26,"customer_industry":"Major Banks"}
-{"id":27,"customer_industry":"Oil & Gas Production"}
-{"id":28,"customer_industry":"n/a"}
-{"id":29,"customer_industry":"n/a"}
-{"id":30,"customer_industry":"Computer Software: Programming, Data Processing"}
-{"id":31,"customer_industry":"Broadcasting"}
-{"id":32,"customer_industry":"Major Pharmaceuticals"}
-{"id":33,"customer_industry":"Real Estate"}
-{"id":34,"customer_industry":"Industrial Machinery/Components"}
-{"id":35,"customer_industry":"Radio And Television Broadcasting And Communications Equipment"}
-{"id":36,"customer_industry":"Other Specialty Stores"}
-{"id":37,"customer_industry":"Biotechnology: In Vitro & In Vivo Diagnostic Substances"}
-{"id":38,"customer_industry":"Oil Refining/Marketing"}
-{"id":39,"customer_industry":"Television Services"}
-{"id":40,"customer_industry":"Services-Misc. Amusement & Recreation"}
-{"id":41,"customer_industry":"n/a"}
-{"id":42,"customer_industry":"Marine Transportation"}
-{"id":43,"customer_industry":"Major Pharmaceuticals"}
-{"id":44,"customer_industry":"n/a"}
-{"id":45,"customer_industry":"Investment Bankers/Brokers/Service"}
-{"id":46,"customer_industry":"Textiles"}
-{"id":47,"customer_industry":"Medical Specialities"}
-{"id":48,"customer_industry":"n/a"}
-{"id":49,"customer_industry":"Semiconductors"}
-{"id":50,"customer_industry":"Savings Institutions"}
+{"id":1,"customer_industry":"Power Generation"},
+{"id":2,"customer_industry":"Medical/Dental Instruments"},
+{"id":3,"customer_industry":"Finance: Consumer Services"},
+{"id":4,"customer_industry":"n/a"},
+{"id":5,"customer_industry":"Property-Casualty Insurers"},
+{"id":6,"customer_industry":"Medical/Dental Instruments"},
+{"id":7,"customer_industry":"n/a"},
+{"id":8,"customer_industry":"Computer Software: Prepackaged Software"},
+{"id":9,"customer_industry":"n/a"},
+{"id":10,"customer_industry":"n/a"},
+{"id":11,"customer_industry":"Real Estate Investment Trusts"},
+{"id":12,"customer_industry":"Business Services"},
+{"id":13,"customer_industry":"Hospital/Nursing Management"},
+{"id":14,"customer_industry":"n/a"},
+{"id":15,"customer_industry":"Real Estate Investment Trusts"},
+{"id":16,"customer_industry":"Business Services"},
+{"id":17,"customer_industry":"Precious Metals"},
+{"id":18,"customer_industry":"Oil & Gas Production"},
+{"id":19,"customer_industry":"Semiconductors"},
+{"id":20,"customer_industry":"Real Estate Investment Trusts"},
+{"id":21,"customer_industry":"EDP Services"},
+{"id":22,"customer_industry":"n/a"},
+{"id":23,"customer_industry":"Life Insurance"},
+{"id":24,"customer_industry":"n/a"},
+{"id":25,"customer_industry":"Oil Refining/Marketing"},
+{"id":26,"customer_industry":"n/a"},
+{"id":27,"customer_industry":"n/a"},
+{"id":28,"customer_industry":"EDP Services"},
+{"id":29,"customer_industry":"Telecommunications Equipment"},
+{"id":30,"customer_industry":"Restaurants"},
+{"id":31,"customer_industry":"n/a"},
+{"id":32,"customer_industry":"Major Pharmaceuticals"},
+{"id":33,"customer_industry":"Property-Casualty Insurers"},
+{"id":34,"customer_industry":"n/a"},
+{"id":35,"customer_industry":"Computer Software: Prepackaged Software"},
+{"id":36,"customer_industry":"Telecommunications Equipment"},
+{"id":37,"customer_industry":"Electrical Products"},
+{"id":38,"customer_industry":"Industrial Specialties"},
+{"id":39,"customer_industry":"Major Pharmaceuticals"},
+{"id":40,"customer_industry":"Business Services"},
+{"id":41,"customer_industry":"Metal Fabrications"},
+{"id":42,"customer_industry":"Radio And Television Broadcasting And Communications Equipment"},
+{"id":43,"customer_industry":"Package Goods/Cosmetics"},
+{"id":44,"customer_industry":"n/a"},
+{"id":45,"customer_industry":"Semiconductors"},
+{"id":46,"customer_industry":"n/a"},
+{"id":47,"customer_industry":"n/a"},
+{"id":48,"customer_industry":"Precious Metals"},
+{"id":49,"customer_industry":"Paper"},
+{"id":50,"customer_industry":"Property-Casualty Insurers"}
